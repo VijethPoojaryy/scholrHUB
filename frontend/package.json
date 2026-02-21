@@ -2,6 +2,7 @@
   "name": "nexus-admin-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://vijethpoojary.github.io/scholrHUB",
   "proxy": "http://localhost:5001",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
