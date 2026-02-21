@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "usn": "FINAL_TEST",
+    "name": "Final Tester",
+    "password": "$2a$10$ZzAmR2hbL6YqU57LyvLMP.yYQl4657kQu15wZTc93WCN1pD74OdOC",
+    "role": "Student",
+    "semester": null,
+    "created_at": "2026-02-21T02:18:39.000Z"
+  },
+  {
+    "id": 2,
+    "usn": "USER_TEST_2",
+    "name": "User",
+    "password": "$2a$10$evLU2EZizCUQaH.X3kbQaeFDUk4kvjGAskjOwbUaYXiNFV/ol5a1i",
+    "role": "Student",
+    "semester": null,
+    "created_at": "2026-02-21T02:33:31.000Z"
+  },
+  {
+    "id": 3,
+    "usn": "101",
+    "name": "gagan",
+    "password": "$2a$10$DABZa5.sxy7xwHUCznqRY.LBPWA1lLFv1hnVfdqYEaGACKJR6D0tm",
+    "role": "Student",
+    "semester": 5,
+    "created_at": "2026-02-21T02:34:47.000Z"
+  },
+  {
+    "id": 4,
+    "usn": "102",
+    "name": "sujan",
+    "password": "$2a$10$fICw45of91Na.BrIY4S78O/aW7oBYra6J/I38/dN0FOsYKQwI7Loy",
+    "role": "Faculty",
+    "semester": 4,
+    "created_at": "2026-02-21T02:37:19.000Z"
+  }
+]
