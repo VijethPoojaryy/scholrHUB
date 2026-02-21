@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scholrHUB/static/css/main.536d6ee8.css",
+    "main.js": "/scholrHUB/static/js/main.37456837.js",
+    "index.html": "/scholrHUB/index.html",
+    "main.536d6ee8.css.map": "/scholrHUB/static/css/main.536d6ee8.css.map",
+    "main.37456837.js.map": "/scholrHUB/static/js/main.37456837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.536d6ee8.css",
+    "static/js/main.37456837.js"
+  ]
+}
