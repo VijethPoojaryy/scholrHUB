@@ -2,9 +2,13 @@
   "name": "scholr-hub-root",
   "version": "1.0.0",
   "scripts": {
+    "start": "npm --prefix frontend start",
+    "server": "npm --prefix backend dev",
+    "dev": "concurrently \"npm start\" \"npm run server\"",
     "deploy": "npm --prefix frontend run deploy"
   },
   "devDependencies": {
+    "concurrently": "^9.1.2",
     "gh-pages": "^6.3.0"
   }
 }
