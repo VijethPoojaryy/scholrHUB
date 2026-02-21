@@ -1,8 +1,10 @@
 {
+  "name": "scholr-hub-root",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "npm --prefix frontend run deploy"
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
-  "dependencies": {
-    "deploy": "^1.1.0"
   }
 }
